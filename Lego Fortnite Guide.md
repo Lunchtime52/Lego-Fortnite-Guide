@@ -9,7 +9,7 @@
 
 ### Knotroot 
 - Chop roots up in Caves
-- ==[Uncommon Forest Axe](#crafting-bench)==
+- Requires [Uncommon Forest Axe](#crafting-bench)
 
 ### Granite 
 - Pick up from Ground 
@@ -17,7 +17,7 @@
 
 ### Marble 
 - Pickaxe white stone in Caves
-- ==[[#Crafting Bench | Uncommon Pickaxe]]==
+- Requires [Uncommon Pickaxe](#crafting-bench)
 
 ### Shells 
 - **Regular** -  Kill Grass Crabs 
@@ -33,8 +33,8 @@
 ## No building required
 | Item                | Needed                                                                                          |
 |:------------------- |:----------------------------------------------------------------------------------------------- |
-| [[#Crafting Bench]] | 3 [[#Wood]], 5 [[#Granite]]                                                                     |
-| [[#Lumber Mill]]    | 8 [[#Wood]], 15 [[#Granite]]                                                                    |
+| [Crafting Bench](#crafting-bench) | 3 [[#Wood]], 5 [[#Granite]]                                                                     |
+| [Lumber Mill](#lumber-mill)    | 8 [[#Wood]], 15 [[#Granite]]                                                                    |
 | [[#Grill]]          | 30 [[#Granite]]                                                                                 |
 | [[#Spinning Wheel]] | 8 [[#Lumber Mill \| Planks]], 5 [[#Lumber Mill \| Wooden Rods]], 5 [[#Wood]], 5 Wolf [[#Claws]] |
 | [[#Stone Breaker]]  | 20 [[#Knotroot]], 35 [[#Marble]]                                                                     |
@@ -170,23 +170,4 @@ Crafting Bench upgrades:
 
 
 
-[[#Lego Fortnite Guide | Back to Top]]
-## Other Info 
-- **Planks** - Use a Lumber Mill to craft Planks out of Wood.
-- **Knotroot** - The only place to find Knotroot is in caves. They appear as curled pieces of wooden roots sticking out of the cave walls. ==To harvest Knotroot, you'll have to craft an Uncommon Forest Axe.==
-- **Uncommon Forest Axe (3 Bone, 3 Wooden Rods)** - Upgrade your Crafting Bench once to unlock the recipe for an Uncommon Forest Axe, and craft it there.
-- **Bone** - Dropped by defeating Skeletons at night or in caves.
-- **Wooden Rods** - Refine Wood at a Lumber Mill.
-- **Marble** - The rocky equivalent of Knotroot is Marble, which appears in caves in the form of white rocks that otherwise look pretty similar to Granite. You'll need an
-- **Uncommon Pickaxe (3 [[#Lumber Mill \| Knotroot Rods]], 3 Bones)** - Upgrade your Crafting Bench to unlock the recipe.
-- **[[#Lumber Mill \| Knotroot Rods]]** - Refine Knotroot using a Lumber Mill.
-- **Granite Slab** - Refine Granite using a Stone Breaker.
-- **Marble Slab** - Refine Marble using a Stone Breaker.
-- **Rough Amber** - Mine amber clusters in a Dry Valley Mesa desert biome using an Uncommon or better Pickaxe.
-- **Flexwood** - Cut down Cacti in a Dry Valley Mesa desert biome using a Rare Axe.
-- **Obsidian** - Mine the black rock clusters within caves in the Dry Valley Mesa desert biome using a Rare Pickaxe.
-- **Sand Claw** - Defeat orange wolves at night in a beach, valley, or desert biome.
-- **Sand Shell** - Defeat Sand Crabs near the shoreline.
-- **Cut Amber** - Refine Rough Amber using a Gem Cutter.
-- **Flexwood Rod** - Refine Flexwood using a Lumber Mill.
-- **Obsidian Slab** - Refine Obsidian using a Stone Breaker.
+[Back to Top](#lego-fortnite-guide)
