@@ -1,7 +1,7 @@
 # Lego Fortnite Guide
 
 ```diff
-- ### IN PROGRESS 
+- IN PROGRESS 
 ```
 
 ## Resources
