@@ -1,9 +1,6 @@
 
 # Lego Fortnite Guide
 
-Gatherable Resources from wild: Wood, Granite, Wolf Claw, Vines, Feather, Knotroot, Soil, Fertilizer, Marble, Shells, Flexwood, Frost Pine, 
-
-Knotroot, Marble - Caves
 ## Resources 
 
 ### Wood 
@@ -12,7 +9,7 @@ Knotroot, Marble - Caves
 
 ### Knotroot 
 - Chop roots up in Caves
-- ==[[#Crafting Bench | Uncommon Forest Axe]]==
+- ==[Uncommon Forest Axe](#crafting-bench)==
 
 ### Granite 
 - Pick up from Ground 
