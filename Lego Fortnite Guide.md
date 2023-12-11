@@ -51,6 +51,7 @@
 | Torch               | 3 [[#Wood]], 5 Vines                                                                            |
 | Garden Plot         | 2 Soil, 1 Fertilizer                                                                            |
 
+[Back to Top](#lego-fortnite-guide)
 ## Crafting Bench
 | Item                   | Common                                                      | Uncommon                                                          | Rare                                                                            | Epic                                                                     |
 | ---------------------- | ----------------------------------------------------------- | ----------------------------------------------------------------- | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
@@ -79,7 +80,7 @@ Crafting Bench upgrades:
 - **Rare** - 12 [[#Lumber Mill \| Knotroot Rods]], 15 Marble Slab, 6 Sand [[#Claws]], 3 Sand [[#Shells]]
 - **Epic** - 15 Copper Bar, 25 Obsidian Slab, 1 Brute Scale
 
-[[#Lego Fortnite Guide | Back to Top]]
+[Back to Top](#lego-fortnite-guide)
 ## Lumber Mill
 | Item          | Needed          |
 | ------------- | --------------- |
@@ -90,7 +91,7 @@ Crafting Bench upgrades:
 | Frostpine Rod | 1 Frostpine     |
 
 
-[[#Lego Fortnite Guide | Back to Top]]
+[Back to Top](#lego-fortnite-guide)
 ## Spinning Wheel
 | Item        | Needed  |
 | ----------- | ------- |
@@ -99,61 +100,61 @@ Crafting Bench upgrades:
 | Wool Thread |         |
 | Silk Thread |         |
 
-[[#Lego Fortnite Guide | Back to Top]]
+[Back to Top](#lego-fortnite-guide)
 ## Grill 
 | Item | Needed |
 | ---- | ------ |
 |      |        |
 
-[[#Lego Fortnite Guide | Back to Top]]
+[Back to Top](#lego-fortnite-guide)
 ## Stone Breaker 
 | Item | Needed |
 | ---- | ------ |
 |      |        |
 
-[[#Lego Fortnite Guide | Back to Top]]
+[Back to Top](#lego-fortnite-guide)
 ## Grain Mill
 | Item | Needed |
 | ---- | ------ |
 |      |        |
 
-[[#Lego Fortnite Guide | Back to Top]]
+[Back to Top](#lego-fortnite-guide)
 ## Juicer 
 | Item | Needed |
 | ---- | ------ |
 |      |        |
 
-[[#Lego Fortnite Guide | Back to Top]]
+[Back to Top](#lego-fortnite-guide)
 ## Gem Cutter
 | Item | Needed |
 | ---- | ------ |
 |      |        |
 
-[[#Lego Fortnite Guide | Back to Top]]
+[Back to Top](#lego-fortnite-guide)
 ## Loom
 | Item | Needed |
 | ---- | ------ |
 |      |        |
 
-[[#Lego Fortnite Guide | Back to Top]]
+[Back to Top](#lego-fortnite-guide)
 ## Essence Table 
 | Item | Needed |
 | ---- | ------ |
 |      |        |
 
-[[#Lego Fortnite Guide | Back to Top]]
+[Back to Top](#lego-fortnite-guide)
 ## Metal Smelter 
 | Item | Needed |
 | ---- | ------ |
 |      |        |
 
-[[#Lego Fortnite Guide | Back to Top]]
+[Back to Top](#lego-fortnite-guide)
 ## Oven
 | Item | Needed |
 | ---- | ------ |
 |      |        |
 
-[[#Lego Fortnite Guide | Back to Top]]
+[Back to Top](#lego-fortnite-guide)
 ## Village Square 
 | Level | Resources                                                        | Upgrades            |
 | ----- | ---------------------------------------------------------------- | ------------------- |
