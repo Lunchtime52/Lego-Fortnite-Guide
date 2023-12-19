@@ -1,0 +1,29 @@
+body{
+  text-align: center;
+}
+
+table{
+  margin: auto;
+  border-collapse: collapse;
+  width: 75%;
+  background-color: lightgrey;
+}
+th,td{
+ border: 1px solid;
+ padding: 10px;
+}
+td{
+  /* text-align: left; */
+}
+:target{
+  background: yellow;
+}
+tr:hover {
+  background-color: lightcyan;
+}
+ul{
+  list-style-position: inside;
+  padding: 0;
+  margin: 0;
+  text-align: left;
+}
